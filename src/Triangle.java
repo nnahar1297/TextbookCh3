@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * @class: Triangle
  * @author: Nazmun Nahar
@@ -8,6 +6,8 @@ import java.util.Scanner;
  * @date: February 9, 2023
  * description: this program will calculate the perimeter of a triangle
  */
+
+import java.util.Scanner;
 public class Triangle {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);

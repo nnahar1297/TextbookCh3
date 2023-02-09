@@ -23,6 +23,7 @@ public class BMI {
         bmi = weight/(height*height);
         System.out.println("BMI is: " + bmi);
 
+
         if(bmi >= 30.0)
             System.out.println("BMI interpretation: Obese");
         else if (bmi >= 25)

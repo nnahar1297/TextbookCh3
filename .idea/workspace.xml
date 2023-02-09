@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01883ebb-0bde-411a-b9c8-6a12609e4724" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextbookCh3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
+    <list default="true" id="01883ebb-0bde-411a-b9c8-6a12609e4724" name="Changes" comment="Adding code the Triangle">
+      <change afterPath="$PROJECT_DIR$/src/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +52,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675967538247</updated>
-      <workItem from="1675967539507" duration="1192000" />
+      <workItem from="1675967539507" duration="3883000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding code the Triangle">
+      <created>1675968917258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675968917258</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding code the Triangle">
+      <created>1675968993398</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675968993398</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding code the Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding code the Triangle" />
   </component>
 </project>

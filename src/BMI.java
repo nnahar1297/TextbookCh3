@@ -1,5 +1,12 @@
+/**
+ * @class: BMI
+ * @author: Nazmun Nahar
+ * @course: ITEC2140 - 05, Spring 2023
+ * @version: 1.0
+ * @date: February 9, 2023
+ * description: this program will calculate BMI index and interpret the BMI
+ */
 import java.util.Scanner;
-
 public class BMI {
     public static void main(String[] args){
         Scanner prompt = new Scanner(System.in);
